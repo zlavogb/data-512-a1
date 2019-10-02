@@ -60,9 +60,8 @@ Date data was accessed: 10/01/2019
 * One JPEG file named `visualization.jpeg` that depicts the trends in the views data gathered from the API, separated by access type and API source.
 
 
-------------
 ## Software used:
-------------
+
 * MacOS Mojave 10.14.6
 * Python 3.7.1
 * ipython 7.2.0
